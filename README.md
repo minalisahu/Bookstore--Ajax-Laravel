@@ -22,13 +22,13 @@ to compile assest
 
 
 Description:
- Admin should be able to add/edit/delete books
- Customers should be able to search and filter according to multiple
+Admin should be able to add/edit/delete books
+Customers should be able to search and filter according to multiple
 attributes like title, author, publication date, isbn, genre
 
- Data must be paginated
- Use the following data source as an example to build your data set -
+ Data must be paginated
+ Use the following data source as an example to build your data set -
 https://fakerapi.it/api/v1/books?_quantity=100
 
- Minimum 100 products
- focus on performance of the APIs
+ Minimum 100 products
+ focus on performance of the APIs
